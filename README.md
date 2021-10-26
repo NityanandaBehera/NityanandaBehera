@@ -1,6 +1,6 @@
                                                                        <Hi There!/> 👋        
+                                                                    I AM NITYANANDA BEHERA      
 
-<p>
 I am an aspiring Fullstack Webdeveloper
 
 
