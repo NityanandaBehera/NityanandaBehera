@@ -17,5 +17,3 @@ I am an aspiring Fullstack Webdeveloper
 <p text-align="center">
   <a href="https://app.daily.dev/NityanandaBeher"><img src="https://api.daily.dev/devcards/30d3878ef6b749c2af2e35ae43c3d253.png?r=gsc" width="400" alt="Nityananda's Dev Card"/></a>
   </p>
- <p> [![Nityananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NityanandaBehera)](https://github.com/NityanandaBehera/github-readme-stats)
-</p>
