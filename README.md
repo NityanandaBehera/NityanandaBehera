@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!
-<!--
+
+<p>
 **NityanandaBehera/NityanandaBehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--></p>
 <p text-align="center">
   <a href="https://app.daily.dev/NityanandaBeher"><img src="https://api.daily.dev/devcards/30d3878ef6b749c2af2e35ae43c3d253.png?r=gsc" width="400" alt="Nityananda's Dev Card"/></a>
   </p>
