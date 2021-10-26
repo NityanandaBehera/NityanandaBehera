@@ -1,18 +1,18 @@
-### Hi there 👋
+                                                                       <Hi There!/> 👋        
 
 <p>
-**NityanandaBehera/NityanandaBehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Fullstack Webdeveloper
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- �� I’m currently working on a Backend developer
+- 🌱 I’m currently learning Django,Mongodb,postman API
+- 👯 I’m looking to collaborate on any Web Development project
+- 🤔 I’m looking for a breakthrough in my Web Development carrer!
+- 💬 Ask me about how i got into programming and my intersets!
+- 📫 Mail me at:nityanandabehera85132@gmail.com 
+- 😄 Check out my portfolio: under process!!
+- ⚡ Fun fact: i used to hate programming once!!
 --></p>
 <p text-align="center">
   <a href="https://app.daily.dev/NityanandaBeher"><img src="https://api.daily.dev/devcards/30d3878ef6b749c2af2e35ae43c3d253.png?r=gsc" width="400" alt="Nityananda's Dev Card"/></a>
