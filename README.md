@@ -12,6 +12,7 @@
 
 
 - 📫 How to reach me **nityanandabehera85132@gmail.com**
+- Connect me on Linkedin **https://www.linkedin.com/in/nityanandabeherat774/**
 
 
 ## 🚀 Languages and Tools:
