@@ -6,16 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Backend on django
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m currently working on Nextjs
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 - 📫 How to reach me **nityanandabehera85132@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
