@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Nextjs
+- 🔭 I’m currently working on Fastapi and Reactjs
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
